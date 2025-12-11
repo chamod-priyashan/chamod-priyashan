@@ -8,11 +8,11 @@
 </p>
 
 
-- 🌱 I’m currently learning **Ayu Mantra**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 💬 Ask me about **MERN Stack**
 
-- 📫 How to reach me **tharushidananjana@gmail.com**
+- 📫 How to reach me **chamodpriyashan2002@gmail.com**
 
 - ⚡ Fun fact **I think I am funny.**
 
@@ -129,51 +129,51 @@
 
 <h3 align="left">🚀 About Me:</h3>
 <p>
-  I'm Tharushi a dedicated student at SLIIT with a passion for technology. I specialize in web and mobile development, focusing on innovative frameworks like Flutter and React Native. Eager to explore emerging technologies, I thrive on solving complex challenges and pushing my limits. My ultimate goal is to build impactful applications that enhance user experiences and bring positive change to the digital world.
+  I'm Chamod a dedicated student at SLIIT with a passion for technology. I specialize in web and mobile development, focusing on innovative frameworks like Flutter and React Native. Eager to explore emerging technologies, I thrive on solving complex challenges and pushing my limits. My ultimate goal is to build impactful applications that enhance user experiences and bring positive change to the digital world.
 </p>
 
 ---
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-contribution-stats.vercel.app/api/?username=tharushi-dananjana&theme=night-owl" alt="Detailed Contribution Stats" />
+  <img src="https://github-contribution-stats.vercel.app/api/?username=chamod-priyashan&theme=night-owl" alt="Detailed Contribution Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharushi-dananjana&layout=compact&theme=radical&langs_count=10&hide_border=false" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamod-priyashan&layout=compact&theme=radical&langs_count=10&hide_border=false" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tharushi-dananjana&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chamod-priyashan&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tharushi-dananjana&theme=radical&no-frame=false&no-bg=false&margin-w=15&margin-h=15&column=6" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=chamod-priyashan&theme=radical&no-frame=false&no-bg=false&margin-w=15&margin-h=15&column=6" alt="Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tharushi-dananjana&theme=radical" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chamod-priyashan&theme=radical" alt="Profile Details" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tharushi-dananjana&theme=radical" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chamod-priyashan&theme=radical" alt="Most Commit Language" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tharushi-dananjana&theme=radical" alt="Repositories per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chamod-priyashan&theme=radical" alt="Repositories per Language" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tharushi-dananjana&theme=radical" alt="Stats Card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chamod-priyashan&theme=radical" alt="Stats Card" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tharushi-dananjana&theme=radical&utcOffset=4" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chamod-priyashan&theme=radical&utcOffset=4" alt="Productive Time" />
 </p>
 
 ---
 <h3 align="left">🔝 Top Contributed Repo:</h3>
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=tharushi-dananjana&limit=5&theme=dark&combine_all_yearly_contributions=true">
+  <img src="https://github-contributor-stats.vercel.app/api?username=chamod-priyashan&limit=5&theme=dark&combine_all_yearly_contributions=true">
 </p>
 ---
