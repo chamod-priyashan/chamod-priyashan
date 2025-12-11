@@ -134,43 +134,6 @@
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-contribution-stats.vercel.app/api/?username=chamod-priyashan&theme=night-owl" alt="Detailed Contribution Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamod-priyashan&layout=compact&theme=radical&langs_count=10&hide_border=false" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chamod-priyashan&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chamod-priyashan&theme=radical&no-frame=false&no-bg=false&margin-w=15&margin-h=15&column=6" alt="Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chamod-priyashan&theme=radical" alt="Profile Details" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chamod-priyashan&theme=radical" alt="Most Commit Language" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chamod-priyashan&theme=radical" alt="Repositories per Language" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chamod-priyashan&theme=radical" alt="Stats Card" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chamod-priyashan&theme=radical&utcOffset=4" alt="Productive Time" />
-</p>
-
 ---
 <h3 align="left">🔝 Top Contributed Repo:</h3>
 <p align="center">
